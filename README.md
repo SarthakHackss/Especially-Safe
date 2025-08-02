@@ -119,3 +119,5 @@ Use of [HowsMySSL](https://www.howsmyssl.com/) further ensures TLS connection in
 
 ## 📎 License
 MIT License (or your preferred open-source license)
+![Screenshot](https://raw.githubusercontent.com/<SarthakHackss>/<Especially-Safe>/Especially-Safe-imgs/Screenshot%202025-08-03%20011912.png)
+
